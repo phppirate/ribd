@@ -1,4 +1,5 @@
 TestApp::Application.routes.draw do
+  devise_for :users
   resources :posts
 
   match "about" => 'main#about', via: :get

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22724d59-f3e3-411f-b3f0-e32513584e85" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/test_app.iml" afterPath="$PROJECT_DIR$/.idea/test_app.iml" />
-    </list>
+    <list default="true" id="22724d59-f3e3-411f-b3f0-e32513584e85" name="Default" comment="" />
     <ignored path="test_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="22724d59-f3e3-411f-b3f0-e32513584e85" time="1381859002634" ignored="false" />
@@ -28,6 +26,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="test_app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="245" selection-end="245" vertical-scroll-proportion="0.24390244">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -393,6 +404,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="245" selection-end="245" vertical-scroll-proportion="0.24390244">
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 
