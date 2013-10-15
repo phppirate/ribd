@@ -10,6 +10,17 @@ class PostsController < ApplicationController
   def new
     @post = Post.new
   end
+  
+  def create
+    @post = Post.new(params[:post].permit(:body, :title))
+    if @post.save
+      flash[:notice] = "Post Saved."
+      redirect_to @post
+    else
+      flash[:error] = "Post did not save correctly!"
+      render :new
+    end
+  end
 
   def edit
   end

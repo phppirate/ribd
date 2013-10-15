@@ -5,3 +5,18 @@
 .m10{
 	margin-bottom: 25px;
 }
+.height200{
+	max-height 200px;
+	overflow: hidden;
+}
+.clear-all{
+	clear: both;
+}
+.athumb{
+	color: #000;
+	text-decoration: none;
+}
+.athumb:hover{
+	color: #000;
+	text-decoration: none;
+}
