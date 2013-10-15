@@ -1,5 +1,5 @@
 TestApp::Application.routes.draw do
-  resources :post
+  resources :posts
 
   match "about" => 'main#about', via: :get
   match "contact" => 'main#contact', via: :get
