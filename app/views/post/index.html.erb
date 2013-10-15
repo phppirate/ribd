@@ -1,0 +1,15 @@
+<h1>Posts</h1>
+<ul>
+	<% @posts.each do |post| %>
+		<div class="col-md-3 col-sm-6 col-md-3">
+			<div class="thumbnail m10">
+				<h2>
+					<%= link_to post.title, post %>
+				</h2>
+				<p>
+					<%= post.body %>
+				</p>
+			</div>
+		</div>
+	<% end %>
+</ul>
