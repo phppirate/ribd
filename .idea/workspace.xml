@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22724d59-f3e3-411f-b3f0-e32513584e85" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/main/about.html.erb" afterPath="$PROJECT_DIR$/app/views/main/about.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/main/contact.html.erb" afterPath="$PROJECT_DIR$/app/views/main/contact.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/posts/edit.html.erb" afterPath="$PROJECT_DIR$/app/views/posts/edit.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="22724d59-f3e3-411f-b3f0-e32513584e85" time="1381982887836" ignored="false" />
+    <file path="/Dummy.txt" changelist="22724d59-f3e3-411f-b3f0-e32513584e85" time="1381984664405" ignored="false" />
     <file path="/application.html.erb" changelist="22724d59-f3e3-411f-b3f0-e32513584e85" time="1381984509421" ignored="false" />
     <file path="/show.html.erb" changelist="22724d59-f3e3-411f-b3f0-e32513584e85" time="1381953737389" ignored="false" />
     <file path="/index.html.erb" changelist="22724d59-f3e3-411f-b3f0-e32513584e85" time="1381953984542" ignored="false" />
@@ -478,7 +474,11 @@
       <created>1381982890881</created>
       <updated>1381982890881</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Files Updated #2">
+      <created>1381984666263</created>
+      <updated>1381984666263</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -547,7 +547,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Files Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files Updated #2" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -562,6 +562,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Files Updated" />
+    <MESSAGE value="Files Updated #2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
