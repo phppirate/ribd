@@ -1,6 +1,8 @@
 <div class="page-header"><h1><%= @post.title %></h1></div>
 <p><%= @post.body %></p>
+<% if current_user %>
 <div class="btn-group">
 <%= link_to "Edit", edit_post_path(@post), class: 'btn btn-xs btn-success' %>
 <%= link_to "Delete", edit_post_path(@post), class: 'btn btn-xs btn-danger' %>
 </div>
+<% end %>
