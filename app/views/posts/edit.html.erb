@@ -1,4 +1,4 @@
-<h1>Edit Post</h1>
+<div class="page-header"><h1>Edit Post</h1></div>
 
     <%= form_for @post, html: { class: 'form-horizontal' } do |f| %>
 	
@@ -8,6 +8,6 @@
 		
         <%= f.label :body, class: 'control-label' %>
         <%= f.text_area :body, rows: 8, class: 'form-control' %><br />
-        <%= f.submit "Save", class: 'btn' %>
+        <%= f.submit "Save", class: 'btn btn-success' %>
 	</div>
     <% end %>
